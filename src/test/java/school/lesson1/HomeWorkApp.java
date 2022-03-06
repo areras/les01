@@ -18,8 +18,8 @@ public class HomeWorkApp {
 
 
     public static void checkSumSign() {
-        int a = 25;
-        int b = 30;
+        int a = 16;
+        int b = -60;
         int sum = a + b;
 
         if (sum >= 0) {
@@ -31,7 +31,7 @@ public class HomeWorkApp {
 
 
     public static void printColor() {
-        int value = 100;
+        int value = 120;
 
         if (value <= 0) {
             System.out.println("Красный");
@@ -44,8 +44,8 @@ public class HomeWorkApp {
 
 
     public static void compareNumbers() {
-        int a = 10;
-        int b = 50;
+        int a = 65;
+        int b = 12;
 
         if (a >= b) {
             System.out.println("a >= b");
